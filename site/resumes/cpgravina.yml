@@ -1,0 +1,177 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output
+#
+
+
+template: "online-cv"
+skin: "blue"
+
+
+# Personal Information
+basic_info:
+
+
+   # Your full name
+   first_name: Camille
+   last_name: Gravina
+  
+   # Define yourself in 4-5 words
+   motto: Integrating technology and language for a global impact
+  
+   # Focus
+   focus: Developing apps that can be launched globally
+  
+   # You have 1 paragraph to make a great impression, summarize your career
+   summary: |
+     Experienced multilingual professional specializing in content management, translation, and localization. With a strong educational background in modern languages, international cooperation, and SEO/SEM for e-commerce, I have honed my skills in managing and ensuring the quality of multilingual content. My expertise extends to full-stack development, having recently completed a course at 4Geeks Academy. Fluent in French, Italian, English, and Spanish, I have a proven track record of delivering high-quality translations and localizations, supporting internal stakeholders, and improving product content for global audiences.
+
+
+  
+   # Your profile picture URL
+   # If you don't have it as a URL you can place the picture inside /static/profile-images/ and the generated link will be http://sep.breatheco.de/static/profile-images/<your file name>
+   avatar: https://media.licdn.com/dms/image/C5103AQHGAjigLpKf8A/profile-displayphoto-shrink_800_800/0/1517614437307?e=1721865600&v=beta&t=jUkgCG9nCUSp55FOuiq8SuH8pTx52kAPpVetCMSDjIQ
+
+
+   # Contact Information
+   email: cpgravina@gmail.com #optional
+   phone: 655344022 #optional
+   website:  #optional
+   linkedin: https://www.linkedin.com/in/camillepatriziagravina/ #optional
+  
+   #
+   # ******** IMPORTANT *******
+   # This github username will be used to generate your public profile URL like this: http://sep.breatheco.de/sharu725
+   github: cpgravina
+  
+   twitter:  #optional
+   stack-overflow: # 25251259/cpgrav
+
+
+   # Languages you speak, levels include: Native, Professional
+   languages:
+     - idiom: French
+       level: Native
+
+
+     - idiom: Italian
+       level: Professional
+
+
+     - idiom: English
+       level: Professional
+
+
+     - idiom: Spanish
+       level: Professional
+
+
+
+
+   # Interests or hobbies
+   interests:
+     - item: Family
+
+
+     - item: Fitness
+
+
+     - item: Reading
+
+
+# Your previous education
+education:
+   - degree: Full Stack Software Development Course
+     university: 4Geeks Academy
+     # optional
+     university_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+     time: May 2024 - September 2024
+     details: |
+
+
+         -  HTML, CSS, Bootstrap, Javascript, React, Python
+
+
+   - degree: Master's degree in SEO/SEM
+     university: KSchool
+     # optional
+     university_logo:
+     time: April 2017 - October 2017
+     details: |
+
+
+         - Visibility, keyword research, technical audits, indexability, information architecture and relevance, link building, measurement and reporting, optimization.
+
+
+# Your previous job experiences or volunteer
+experiences:
+   - role: Professional pause for full time parenting
+     time: July 2023 - May 2024
+     company: None
+     # optional
+     company_logo:
+     details: |
+
+
+         - Professional pause for full-time parenting and to improve my skillset.
+
+
+   - role: Multilingual Content Management Specialist
+     time: July 2016- July 2023
+     company: Expedia Group
+     # optional
+     company_logo:
+     details: |
+
+
+         - Triage, verification and approval of translation requests to make sure localization and
+           internationalization best practices are implemented.
+         - Liaise and educate internal stakeholders on internationalization/localization best practices and localization internal tools.
+         - Create and maintain internal pages and educational materials on the translation process and on internationalization/localization best practices.
+         - Local product improvement (create and follow-up defects for improving content/product, perform audits to report localization defects).
+         - Linguistic quality assurance of French content for web and mobile applications ensuring terminology and tone of voice consistency.
+   
+   - role: Freelance translator
+     time:  July 2013- June 2016
+     company: Self-employed
+     # optional
+     company_logo:
+     details: |
+
+
+         - Legal, financial, IT, administrative translation and proofreading. Preparation of marketing reports in French and Italian. Translations from Spanish/English into Italian and French.
+
+
+# Your project portfolio
+projects:
+   intro: >
+     I will list my projects soon and update this list as I keep learning.
+
+
+   assignments:
+     - title: Instagram post with Bootstrap
+       # optional
+       project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+
+
+     - title: HTML Form
+       # optional
+       project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+      
+
+
+skills:
+   toolset:
+     - name: HTML5 & CSS
+       level: Currently learning
+
+
+     - name: JavaScript
+       level: Currently learning
+
+
+     - name: React
+       level: Currently learning
+
+
+     - name: Python
+       level: Currently learning
